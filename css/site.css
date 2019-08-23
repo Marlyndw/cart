@@ -1,16 +1,8 @@
 .body{
     background-color: goldenrod;
     font-family: "Titillium Web", Helvetica, Arial, sans-serif;
-    
-    
-   
-
 }
 .chart-backing {
-
-    /* background-image:    url(../img/cryptocurrency-3409641_1280.jpg); */
-    /* background-size:     cover;                       */
-    /* background-repeat:   no-repeat; */
     background-position: center center;
     display: flex;
     flex-direction: column;
@@ -27,7 +19,6 @@
     align-items: flex-end;
     justify-content: space-around;
     background-color:red;
-    border-left-color: 0.5em aquamarine;
     border-top-width: medium;
     border-bottom width: medium;
     border-left-width: medium;
@@ -65,8 +56,6 @@
     text-shadow: 2px 2px 0px black;
     text-align: center;
     justify-content: start;
-
-
 }
 
 :root{
